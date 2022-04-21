@@ -1,2 +1,2 @@
-# Credit Card Fraud Detection
- 
+# Fraudulent CC Transaction Flagger
+[Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
